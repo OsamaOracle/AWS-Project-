@@ -1,4 +1,4 @@
-# AWS-Project-
+#Complete Amazon AWS Project
 Full Project for AWS to create VM(EC2), Install Nginx,reverse proxy,Harden the code 
 
 You can check the Link of documentation on my blog :
